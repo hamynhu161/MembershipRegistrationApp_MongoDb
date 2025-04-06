@@ -81,7 +81,7 @@ namespace Jäsenrekisteriohjelma_MongoDb
             }
         }
 
-        //Poista tiedot lomakkeelta
+        //poista tiedot lomakkeelta
         private void ClearForm()
         {
             txbEtunimi.Text = "";
@@ -195,7 +195,7 @@ namespace Jäsenrekisteriohjelma_MongoDb
                     return;
                 }
 
-                //hakee id-arvon ensimmäisestä jäsenestä - results
+                //hakee id-arvon ensimmäisestä jäsenestä:results
                 var id = results.FirstOrDefault()?.Id;
 
                 //määrittää päivityksen asettamalla Id-kenttä uudelle arvolle - id
