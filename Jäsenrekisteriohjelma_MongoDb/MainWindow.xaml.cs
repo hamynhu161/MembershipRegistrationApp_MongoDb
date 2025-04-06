@@ -99,7 +99,6 @@ namespace Jäsenrekisteriohjelma_MongoDb
         {
             try
             {
-                // haetaan hakusana hakukentästä
                 string searchTerm = txb_searchBox.Text;
 
                 if (string.IsNullOrEmpty(searchTerm))
@@ -226,7 +225,7 @@ namespace Jäsenrekisteriohjelma_MongoDb
                 }
                 else
                 {
-                    MessageBox.Show("Tietoja ei muutettu tai päivitys epäonnistui.");
+                    MessageBox.Show("Tietoja ei muutettu.");
                 }
             }
             catch (Exception ex)
