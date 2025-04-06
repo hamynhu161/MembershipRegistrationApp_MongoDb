@@ -1,0 +1,4 @@
+{"_id":{"$oid":"67ef91aaff7b8dde5b28c401"},"Etunimi":"Anna","Sukunimi":"Virtanen","Osoite":"Pellonreuna 2c","Postinumero":"45200","Puhelin":"0414564564","Sahkoposti":"Anna.virtanen@gmail.com","JasenydenAlkuPvm":{"$date":"2025-04-02T21:00:00Z"}}
+{"_id":{"$oid":"67efa7c66f27b69ab01fb5ef"},"Etunimi":"Anna","Sukunimi":"Korhonen","Osoite":"Palosaarentie 62","Postinumero":"65200","Puhelin":"0412583696","Sahkoposti":"anna.korhonen@gmail.com","JasenydenAlkuPvm":{"$date":"2025-04-03T21:00:00Z"}}
+{"_id":{"$oid":"67efe198675818ef111d6928"},"Etunimi":"Nina","Sukunimi":"Hämäläinen","Osoite":"Pitkäkate 12","Postinumero":"65100","Puhelin":"0414524547","Sahkoposti":"miia.hämälainen@gmail.com","JasenydenAlkuPvm":{"$date":"2025-04-03T21:00:00Z"}}
+{"_id":{"$oid":"67f12916a0164b7f8f625263"},"Etunimi":"Nhu","Sukunimi":"Ha","Osoite":"Pitkäkatu 55","Postinumero":65100,"Puhelin":411594874,"Sahkoposti":"hamynhu161@gmail.com","JasenydenAlkuPvm":{"$date":"2025-04-04T21:00:00Z"}}
